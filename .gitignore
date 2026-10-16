@@ -1,0 +1,14 @@
+/state/
+/artifacts/
+/backups/
+__pycache__/
+*.pyc
+*.apk
+*.p12
+*.jks
+*.keystore
+*.key
+.env
+*.log
+.DS_Store
+Thumbs.db
